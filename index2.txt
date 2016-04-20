@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>International Workshop on Ubiquitous Transportation</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/grayscale.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">
+                    UBIQUITOUS<br>TRANSPORTATION
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#topicsofinterest">Topics of interest</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#submissions">Submissions</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#people">People</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#importantdates">Important dates</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Intro Header -->
+    <header class="intro">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h1 class="brand-heading"><br><b>INTERNATIONAL WORKSHOP ON UBIQUITOUS TRANSPORTATION</b></h1>
+                        <p class="intro-text">Heidelberg, Germany, Septemper 12th. <br>
+<a href="http://ubicomp.org/ubicomp2016/">Co-located with the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2016)</a>
+
+</p>
+                        <a href="#about" class="btn btn-circle page-scroll">
+                            <i class="fa fa-angle-double-down animated"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="about" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>About</h2>
+                <p>The development of sensing and communication technologies turned vehicles and their users into ubiquitous footprints of their mobility patterns. Given the variety and accessibility of information and infrastructure capabilities, ubiquitous computing is considered as key enabler for context-awareness and decision-making in transportation improving user experience. Therefore, it is important to identify opportunities and challenges which ubiquitous technologies can bring to transportation domain, how to tackle them to promote best methods and practices to improve mobility sustainability on large urban areas.
+<br>
+The International Workshop on Ubiquitous Transportation aims to gather professionals from industry and academia focused on ITS (Intelligent Transportation Systems) and ubiquitous computing research to discuss the latest scientific results and practical use cases. The main objective of the workshop is to identify the opportunities and challenges, while discussing best methods and practices of deploying ubiquitous computing technologies across transportation domain.  
+
+</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- image0 Section -->
+    <section id="image1" class="content-section text-center">
+        <div class="download-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                                    </div>
+<br><br><br><br><br><br><br>
+            </div>
+        </div>
+    </section>
+
+    <!-- Topics of Interest Section -->
+    <section id="topicsofinterest" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Topics of interest</h2>
+                <p>Authors are invited to submit original unpublished manuscripts that demonstrate current research, methods, and use cases in using ubiquitous computing technologies in transportation domain.
+<br>
+Topics of interest include but are not limited to:
+<br><br>
+<h4>From data to situation awareness</h4>
+Data processing (data acquisition, x2x, data fusion, data analytics)
+<br>
+Sensing, Crowdsourcing, mobile computing
+<br>
+Context- and situation-awareness
+<br>
+Context modelling, reasoning, decision-making
+<br>
+Personalization
+<br><br><br>
+<h4>Methods and algorithms</h4>
+Machine learning and Data Mining
+<br>
+Statistical analysis
+<br>
+Privacy and Security
+<br>
+Visualization
+<br><br><br>
+<h4>Real world applications and experiments</h4> 
+
+Transportation services (road/rail/airline/intercity transportation)
+<br>
+Intelligent transportation systems, Co-operative ITS
+<br>
+Green (eco-, sustainable, safe) driving
+<br>
+Autonomous driving
+</p>
+
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- image1 Section -->
+    <section id="image1" class="content-section text-center">
+        <div class="image1-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                                    </div>
+<br><br><br><br><br><br><br>
+            </div>
+        </div>
+    </section>
+
+ <!-- Submission Section -->
+    <section id="submissions" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Paper submission</h2>
+                <p>All the submitted articles must present original research and experience, not published or submitted anywhere else. All submissions should follow SIGCHI Extended Abstract Format and not exceed 8 pages. The templates are available at  <a href="https://github.com/sigchi/Document-Formats">https://github.com/sigchi/Documents-Formats</a>. All the submissions will be reviewed by at least 2 reviewers.
+<br>
+
+         		<h2>Proceedings</h2>
+                <p>All the accepted articles will be included in the ACM Digital Library and supplemental proceedings of the UbiComp 2016.
+
+</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- image2 Section -->
+    <section id="image2" class="content-section text-center">
+        <div class="image2-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                                    </div>
+<br><br><br><br><br><br><br>
+            </div>
+        </div>
+    </section>
+
+ <!-- People Section -->
+    <section id="people" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Technical Program Committee</h2>
+                <p><b>Jukka Riekki</b>, University of Oulu, Finland
+			<br>
+			<b>Lauri Lov&eacute;n</b>, University of Oulu, Finland
+			<br>
+			People from Tampere
+			<br>
+			People from somewhere else
+			<br>
+
+         		<h2>Organizing Committee</h2>
+                <p><b>Susanna Pirttikangas</b>, University of Oulu
+			<br>
+			<b>Ekaterina Gilman</b>, University of Oulu
+			<br>
+			<b>Denzil Ferreira</b>, University of Oulu
+</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- image3 Section -->
+    <section id="image3" class="content-section text-center">
+        <div class="image3-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                                    </div>
+<br><br><br><br><br><br><br>
+            </div>
+        </div>
+    </section>
+
+ <!-- Important dates Section -->
+    <section id="importantdates" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Important dates</h2>
+                <p>Submission deadline: June 7, 2016
+<br>
+Author notifications: June 25, 2016
+<br>
+Camera-ready deadline: July 2, 2016
+
+<br>
+
+
+</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container text-center">
+            <p><a href="http://ubicomp.oulu.fi"><img src="img/ubicomp_logo.png"></a> </p>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="js/jquery.easing.min.js"></script>
+
+    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/grayscale.js"></script>
+
+</body>
+
+</html>
